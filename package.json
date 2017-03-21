@@ -1,0 +1,23 @@
+{
+    "name": "MCreate",
+    "version": "1.0.0",
+    "description": "Modulus Create Nodejs API",
+    "main": "main.js",
+    "engines": {
+        "node": ">=6.10.0",
+        "npm": "^3.0.0"
+    },
+    "scripts": {
+        "start": "node main.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sameer-coder/mcreate.git"
+    },
+    "author": "Sameer Srivastava",
+    "license": "MIT",
+    "dependencies": {
+        "bluebird": "^3.5.0",
+        "restify": "^4.3.0"
+    }
+}
