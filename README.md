@@ -4,14 +4,18 @@
 Nodejs - v6.10.0 (Latest LTS release)
 npm - v3.10.10
 
+## Libraries used
+- Restify (REST Apis)
+- Bluebird (Promises)
+- Swagger (Documentation)
+
 # Usage
 1. Clone the repo from Github
-2. Run npm install && npm start
+2. Run command 'cd mcreate'
+3. Run npm install && npm start
 
-Restify server runs on port 8080
+The API can be accessed on port 8888.
 
-# TODO
-1. Exception Handling
-2. Improve validation
-3. Swagger documentation
-4. Fix dependency versions
+## Documentation
+Swagger has been used for Documentation.
+Docs can be accessed at http://localhost:8888/public/api-docs/#/
