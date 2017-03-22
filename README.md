@@ -1,6 +1,6 @@
 # Modus Create Nodejs-api assignment
 
-# Environment
+## Environment
 Nodejs - v6.10.0 (Latest LTS release)
 npm - v3.10.10
 
@@ -9,7 +9,7 @@ npm - v3.10.10
 - Bluebird (Promises)
 - Swagger (Documentation)
 
-# Usage
+## Usage
 1. Clone the repo from Github
 2. Run command 'cd mcreate'
 3. Run npm install && npm start
